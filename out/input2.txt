@@ -1,0 +1,49 @@
+Sequence number: 1
+ 
+Initial sequence: ATGTGTCATCGTGTCCAG
+Starting GC content: 50.0
+Original translation: MCHRVQ
+ 
+Codon optimized: ATGTGCCACCGCGTGCAA
+Codon optimized GC content: 61.11 (Delta of: 11.11)
+Codon optimized translation check: MCHRVQ
+ 
+Closest GC match from 1000 randomized sequences: ATGTGCCACCGAGTACAA
+Codon randomized GC content: 50.0 (Delta of: 0.0)
+Codon randomized translation check: MCHRVQ
+ 
+Per-codon GC optimization sequence: ATGTGCCACCGAGTGCAA
+Per-codon GC optimization GC content: 55.56 (Delta of: 5.56)
+Per-codon GC optimization translation check: MCHRVQ
+
+ -------------------------------------------- 
+Sequence number: 2
+ 
+Initial sequence: ATGTGTCATCGTGTCCAGGCA
+Starting GC content: 52.38
+Original translation: MCHRVQA
+ 
+Codon optimized: ATGTGCCACCGCGTGCAAGCC
+Codon optimized GC content: 66.67 (Delta of: 14.29)
+Codon optimized translation check: MCHRVQA
+ 
+Closest GC match from 1000 randomized sequences: ATGTGCCACCGAGTACAAGCT
+Codon randomized GC content: 52.38 (Delta of: 0.0)
+Codon randomized translation check: MCHRVQA
+ 
+Per-codon GC optimization sequence: ATGTGCCACCGAGTGCAAGCT
+Per-codon GC optimization GC content: 57.14 (Delta of: 4.76)
+Per-codon GC optimization translation check: MCHRVQA
+
+ -------------------------------------------- 
+Sequence number: 3
+ 
+Initial sequence: ATGTGTCATCGTGTCCAGGTATTCGGCCAGGGGCGT
+Starting GC content: 58.33
+Original translation: MCHRVQVFGQGR
+ 
+Codon optimized: ATGTGCCACCGCGTGCAAGTGTTTGGACAAGGCCGC
+Codon optimized GC content: 61.11 (Delta of: 2.78)
+Codon optimized translation check: MCHRVQVFGQGR
+ 
+Codon optimized sequence satisfies GC delta requirement

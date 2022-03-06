@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="iteration_utilities" />
+            <item index="1" class="java.lang.String" itemvalue="seqmagick" />
+            <item index="2" class="java.lang.String" itemvalue="pytest-pylint" />
+            <item index="3" class="java.lang.String" itemvalue="csvchk" />
+            <item index="4" class="java.lang.String" itemvalue="new-py" />
+            <item index="5" class="java.lang.String" itemvalue="pytest-mypy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

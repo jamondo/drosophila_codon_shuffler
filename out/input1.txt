@@ -1,0 +1,19 @@
+Sequence number: 1
+ 
+Initial sequence: ATGTGTCATCGTGTCCAG
+Starting GC content: 50.0
+Original translation: MCHRVQ
+ 
+Codon optimized: ATGTGCCACCGCGTGCAA
+Codon optimized GC content: 61.11 (Delta of: 11.11)
+Codon optimized translation check: MCHRVQ
+ 
+Closest GC match from 1000 randomized sequences: ATGTGCCACCGAGTTCAA
+Codon randomized GC content: 50.0 (Delta of: 0.0)
+Codon randomized translation check: MCHRVQ
+ 
+Per-codon GC optimization sequence: ATGTGCCACCGAGTGCAA
+Per-codon GC optimization GC content: 55.56 (Delta of: 5.56)
+Per-codon GC optimization translation check: MCHRVQ
+
+ -------------------------------------------- 
